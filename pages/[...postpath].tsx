@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 				permanent: false,
 				destination: `${
 					endpoint.replace(/(\/graphql\/)/, '/') + encodeURI(path as string)
-				'https://www.highrevenuegate.com/ifg7ibek8i?key=7356b414c5f146459c0548c01ab37c0d'
+				
 				}`,
 			},
 		};
